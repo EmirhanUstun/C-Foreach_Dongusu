@@ -1,0 +1,11 @@
+D:\C# N.Y\Udemy_Foreach_Dongusu\Udemy_Foreach_Dongusu\bin\Debug\Udemy_Foreach_Dongusu.exe.config
+D:\C# N.Y\Udemy_Foreach_Dongusu\Udemy_Foreach_Dongusu\bin\Debug\Udemy_Foreach_Dongusu.exe
+D:\C# N.Y\Udemy_Foreach_Dongusu\Udemy_Foreach_Dongusu\bin\Debug\Udemy_Foreach_Dongusu.pdb
+D:\C# N.Y\Udemy_Foreach_Dongusu\Udemy_Foreach_Dongusu\obj\Debug\Udemy_Foreach_Dongusu.csproj.AssemblyReference.cache
+D:\C# N.Y\Udemy_Foreach_Dongusu\Udemy_Foreach_Dongusu\obj\Debug\Udemy_Foreach_Dongusu.csproj.SuggestedBindingRedirects.cache
+D:\C# N.Y\Udemy_Foreach_Dongusu\Udemy_Foreach_Dongusu\obj\Debug\Udemy_Foreach_Dongusu.Form1.resources
+D:\C# N.Y\Udemy_Foreach_Dongusu\Udemy_Foreach_Dongusu\obj\Debug\Udemy_Foreach_Dongusu.Properties.Resources.resources
+D:\C# N.Y\Udemy_Foreach_Dongusu\Udemy_Foreach_Dongusu\obj\Debug\Udemy_Foreach_Dongusu.csproj.GenerateResource.cache
+D:\C# N.Y\Udemy_Foreach_Dongusu\Udemy_Foreach_Dongusu\obj\Debug\Udemy_Foreach_Dongusu.csproj.CoreCompileInputs.cache
+D:\C# N.Y\Udemy_Foreach_Dongusu\Udemy_Foreach_Dongusu\obj\Debug\Udemy_Foreach_Dongusu.exe
+D:\C# N.Y\Udemy_Foreach_Dongusu\Udemy_Foreach_Dongusu\obj\Debug\Udemy_Foreach_Dongusu.pdb
